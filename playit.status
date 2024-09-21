@@ -9472,3 +9472,12 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwGUQAAAZIW3CZDAAA
 
 TUNNELS
 policies-bb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726960388756 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwGUQAAAZIW3CZDAAAAAQAAAAEAAAAAAAAAAP1Z2t5Fa4AOcLGIyGlVOjp3hZHskrWS8P9UDnhT5_ow
+
+TUNNELS
+policies-bb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
